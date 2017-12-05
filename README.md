@@ -1,6 +1,6 @@
 # CableCam Manufacturing
 
-The CAD program primarilly used is Rhino 3D V5.0 ([cablecam.3dm](cablecam.3dm)) but for better portability the exact same content is exported as AutoCAD ([cablecam.dxf](cablecam.dxf)) and Step file ([cablecam.stp](cablecam.stp)).
+The CAD program primarilly used is Rhino 3D V5.0 ([cablecam.3dm](https://github.com/wernerdaehn/cablecam/raw/master/cablecam.3dm)) but for better portability the exact same content is exported as AutoCAD ([cablecam.dxf](https://github.com/wernerdaehn/cablecam/raw/master/cablecam.dxf)) and Step file ([cablecam.stp](https://github.com/wernerdaehn/cablecam/raw/master/cablecam.stp)).
 
 In case one of the files has a problem, file an Issue in this repository.
 
